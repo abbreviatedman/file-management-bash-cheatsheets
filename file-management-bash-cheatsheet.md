@@ -1,2 +1,0 @@
-# file-management-bash-cheatsheets
-
